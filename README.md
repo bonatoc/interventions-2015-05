@@ -27,10 +27,9 @@
 ### Détail Interventions  
   
 
-- Interventions Contenus, Design : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/design/2015-05)    
- - Interventions Front-End  (Web App v. 1) : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/web_app_v1/2015-05)  
+ - Interventions Contenus, Design : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/design/2015-05)    
  - Interventions Front-End  (Web App v. 2) : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/web_app_v2/2015-05)  
- -Interventions Front-End  (Web App v. 3) : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/web_app_v3/2015-05)  
+ - Interventions Front-End  (Web App v. 3) : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/web_app_v3/2015-05)  
  - Interventions Back-End (Intranet) : [détail](http://ns367573.ovh.net/castle_intranet/utilities/reorganiser/intranet/2015-05)  
  - Interventions Base de Données : [détail](http://ns367573.ovh.net/castle_intranet/utilities/backend_counter_content/2015-05)  
   
